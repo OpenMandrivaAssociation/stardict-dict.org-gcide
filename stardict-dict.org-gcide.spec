@@ -10,7 +10,6 @@ Release:	%{release}
 License:	GPL
 Group:		Databases
 URL:		http://stardict.sourceforge.net/
-Buildroot:	%{_tmppath}/%{name}-%{version}-buildroot
 BuildArch:	noarch
 
 Source0:	ftp://osdn.dl.sourceforge.net/pub/sourceforge/s/st/stardict/stardict-dictd_www.dict.org_gcide-%{version}.tar.bz2
