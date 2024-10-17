@@ -9,7 +9,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Databases
-URL:		http://stardict.sourceforge.net/
+URL:		https://stardict.sourceforge.net/
 Buildroot:	%{_tmppath}/%{name}-%{version}-buildroot
 BuildArch:	noarch
 
