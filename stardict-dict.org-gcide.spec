@@ -1,6 +1,6 @@
 %define	version	2.4.2
 %define rel	4
-%define release	%mkrel %rel
+%define release %rel.1
 %define dict_format_version	2.4.2
 
 Summary:	GCIDE english dictionray for StarDict 2
